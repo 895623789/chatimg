@@ -1,0 +1,40 @@
+✅ Project: 1-vs-1 Realtime Game
+------------------------------------
+
+🌐 Frontend:
+- HTML + CSS + JavaScript
+- Hosted on: Netlify (Free forever)
+
+🎮 Backend:
+- Node.js + Express.js
+- Realtime: Socket.io
+- Hosting: Render.com (Free Tier)
+- Deployment-ready with package.json
+
+🎤 Voice/Video:
+- WebRTC (for peer-to-peer calling, fully free)
+
+🧠 Moderation (Future):
+- Regex + Google Speech API (free tier)
+
+🗃️ Database:
+- Firebase Firestore (for anonymous user data)
+- Firebase config included in frontend
+
+💰 Payment Gateway:
+- Razorpay
+- API Key: `rzp_live_U0b0PJSVTglGWe`
+- Secret Key: `04SfhuExILEqP7rkT8XfPshW`
+
+📁 Hosting Files:
+- Frontend: `index.html`, `style.css`, `script.js`
+- Backend: `server.js`, `package.json`, `.env` (for Razorpay secret), etc.
+
+📦 npm Modules:
+- express
+- socket.io
+- cors
+- dotenv
+- razorpay
+
+✅ Everything will be deployed via GitHub + Render + Netlify.
